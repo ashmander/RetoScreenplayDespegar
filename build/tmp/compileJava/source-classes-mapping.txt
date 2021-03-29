@@ -1,0 +1,48 @@
+com/reto/screenplaydespegar/model/RoomReservation.java
+ com.reto.screenplaydespegar.model.RoomReservation
+com/reto/screenplaydespegar/model/OneWayFlightBuilder.java
+ com.reto.screenplaydespegar.model.OneWayFlightBuilder
+com/reto/screenplaydespegar/model/OneWayFlight.java
+ com.reto.screenplaydespegar.model.OneWayFlight
+com/reto/screenplaydespegar/userinterface/SelectAccommodationPage.java
+ com.reto.screenplaydespegar.userinterface.SelectAccommodationPage
+com/reto/screenplaydespegar/model/RoomReservationBuilder.java
+ com.reto.screenplaydespegar.model.RoomReservationBuilder
+com/reto/screenplaydespegar/tasks/SelectFlight.java
+ com.reto.screenplaydespegar.tasks.SelectFlight
+com/reto/screenplaydespegar/userinterface/SearchCriteriaPage.java
+ com.reto.screenplaydespegar.userinterface.SearchCriteriaPage
+com/reto/screenplaydespegar/userinterface/AccommodationSectionPage.java
+ com.reto.screenplaydespegar.userinterface.AccommodationSectionPage
+com/reto/screenplaydespegar/tasks/AccommodationSection.java
+ com.reto.screenplaydespegar.tasks.AccommodationSection
+com/reto/screenplaydespegar/tasks/SelectAccommodation.java
+ com.reto.screenplaydespegar.tasks.SelectAccommodation
+com/reto/screenplaydespegar/interactions/SwitchWindow.java
+ com.reto.screenplaydespegar.interactions.SwitchWindow
+com/reto/screenplaydespegar/userinterface/SelectFlightPage.java
+ com.reto.screenplaydespegar.userinterface.SelectFlightPage
+com/reto/screenplaydespegar/userinterface/BookAccommodationNowPage.java
+ com.reto.screenplaydespegar.userinterface.BookAccommodationNowPage
+com/reto/screenplaydespegar/userinterface/RoomReservationPage.java
+ com.reto.screenplaydespegar.userinterface.RoomReservationPage
+com/reto/screenplaydespegar/utils/TransformDate.java
+ com.reto.screenplaydespegar.utils.TransformDate
+com/reto/screenplaydespegar/userinterface/SelectItemPage.java
+ com.reto.screenplaydespegar.userinterface.SelectItemPage
+com/reto/screenplaydespegar/tasks/BookAccommodationNow.java
+ com.reto.screenplaydespegar.tasks.BookAccommodationNow
+com/reto/screenplaydespegar/questions/TheButtonTo.java
+ com.reto.screenplaydespegar.questions.TheButtonTo
+com/reto/screenplaydespegar/userinterface/BuyButton.java
+ com.reto.screenplaydespegar.userinterface.BuyButton
+com/reto/screenplaydespegar/utils/RemoveZero.java
+ com.reto.screenplaydespegar.utils.RemoveZero
+com/reto/screenplaydespegar/tasks/RoomReservation.java
+ com.reto.screenplaydespegar.tasks.RoomReservation
+com/reto/screenplaydespegar/tasks/OneWayFlight.java
+ com.reto.screenplaydespegar.tasks.OneWayFlight
+com/reto/screenplaydespegar/exceptions/NotIsAOneWayFlightError.java
+ com.reto.screenplaydespegar.exceptions.NotIsAOneWayFlightError
+com/reto/screenplaydespegar/userinterface/OneWayFlightPage.java
+ com.reto.screenplaydespegar.userinterface.OneWayFlightPage
